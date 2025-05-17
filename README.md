@@ -1,0 +1,2 @@
+# .github
+Stupid Design Theory
