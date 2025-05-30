@@ -1,3 +1,3 @@
 # Stupid Design Theory
 
-We allegedly make games. Stay tuned.
+Allegedly making games. Stay tuned.
